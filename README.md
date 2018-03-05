@@ -1,5 +1,5 @@
 # mint
 
 #nodejs-legacy & npm
-sudo apt install nodejs-legacy
-sudo apt install npm
+sudo apt install nodejs-legacy</br>
+sudo apt install npm</br>
