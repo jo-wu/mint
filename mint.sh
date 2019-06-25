@@ -12,15 +12,7 @@ sudo apt install npm
 sudo npm install n -g
 sudo n lts
 
-
 npm install -g cnpm --registry=https://registry.npm.taobao.org
-
-cnpm install -g typescript
-cnpm install -g @vue/cli
-
-sudo apt install sublime-text
-
-sudo apt install atom
 
 sudo apt install netease-cloud-music
 
