@@ -14,8 +14,6 @@ sudo n lts
 
 
 npm install -g cnpm --registry=https://registry.npm.taobao.org
-cnpm install -g @angular/cli
-ng set --global packageManager=cnpm
 
 cnpm install -g typescript
 cnpm install -g @vue/cli
